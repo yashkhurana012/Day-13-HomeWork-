@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box{
+  border: 2px solid gray;
+  padding: 17px;
+}
+.item-box{
+  display: flex;
+  gap: 15px;
+  margin-top: 7px;
+  padding: 10px;
+  background: gray;
+
+}
+.button-box{
+  display: flex;
+  gap: 10px;
+}
+#root{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.main{
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 72px;
+
+}
