@@ -5,13 +5,13 @@
 }
 
 body {
-  background-color: #fff; /* White background */
-  color: #000; /* Black text */
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
   font-family: Arial, sans-serif; /* Use a generic sans-serif font */
 }
 
 .box {
-  border: 2px solid #000; /* Black border */
+  border: 2px solid #fff; /* White border */
   padding: 17px;
 }
 
@@ -20,8 +20,8 @@ body {
   gap: 15px;
   margin-top: 7px;
   padding: 10px;
-  background: #000; /* Black background */
-  color: #fff; /* White text */
+  background: #fff; /* White background */
+  color: #000; /* Black text */
 }
 
 .button-box {
